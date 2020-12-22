@@ -1,0 +1,214 @@
+[{
+    "id": 1001,
+    "initGold": 300,
+	"radishRow": 10,
+    "radishCol": 2,
+	"pathCount":1,
+    "mapName": "Game/Tiles/map1.tmx",
+    "waves": [{
+            "enemyID": 2001,
+            "pathID": 0,
+            "count": 5,
+            "interval": 2,
+            "nextInterval":5
+        },
+        {
+            "enemyID": 2001,
+            "pathID": 0,
+            "count": 12,
+            "interval": 1.5,
+            "nextInterval":6
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 0,
+            "count": 14,
+            "interval": 1,
+            "nextInterval":6
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 1,
+            "count": 10,
+            "interval": 0.8,
+            "nextInterval":6
+        },
+        {
+            "enemyID": 2001,
+            "pathID": 0,
+            "count": 12,
+            "interval": 0.6,
+            "nextInterval":6
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 0,
+            "count": 10,
+            "interval": 0.5,
+            "nextInterval":6
+        }
+    ],
+    "cardId": [
+        3001,
+        3002
+    ]
+},
+{
+    "id": 1002,
+    "initGold": 500,
+    "radishRow": 10,
+    "radishCol": 2,
+	"pathCount":1,
+    "mapName": "Game/Tiles/map2.tmx",
+    "waves": [{
+            "enemyID": 2001,
+            "pathID": 0,
+            "count": 5,
+            "interval": 0.5,
+			"nextInterval":2
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 0,
+            "count": 5,
+            "interval": 0.5,
+			"nextInterval":2
+        },
+        {
+            "enemyID": 2001,
+            "pathID": 0,
+            "count": 5,
+            "interval": 0.5,
+			"nextInterval":2
+        }
+    ],
+    "cardId": [
+        3001,
+        3002,
+        3003,
+        3004
+    ]
+},
+{
+    "id": 1003,
+    "initGold": 3000,
+    "radishRow": 10,
+    "radishCol": 6,
+	"pathCount": 2,
+    "mapName": "Game/Tiles/map3.tmx",
+    "waves": [{
+            "enemyID": 2001,
+            "pathID": 0,
+            "count": 25,
+            "interval": 0.5,
+			"nextInterval":2
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 1,
+            "count": 25,
+            "interval": 0.5,
+			"nextInterval":2
+            
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 0,
+            "count": 20,
+            "interval": 0.5,
+			"nextInterval":2
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 1,
+            "count": 30,
+            "interval": 0.5,
+			"nextInterval":2
+        }
+    ],
+    "cardId": [
+        3002,
+        3003,
+        3004,
+        3005
+    ]
+},
+{
+    "id": 1004,
+    "initGold": 800,
+    "radishRow": 10,
+    "radishCol": 1,
+	"pathCount":1,
+    "mapName": "Game/Tiles/map4.tmx",
+    "waves": [{
+            "enemyID": 2001,
+            "pathID": 0,
+            "count": 15,
+            "interval": 0.5,
+			"nextInterval":2
+        },
+        {
+            "enemyID": 2001,
+            "pathID": 1,
+            "count": 15,
+            "interval": 0.5,
+            "nextInterval":6
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 0,
+            "count": 20,
+            "interval": 0.5,
+			"nextInterval":2
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 0,
+            "count": 20,
+            "interval": 0.5,
+			"nextInterval":2
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 0,
+            "count": 20,
+            "interval": 0.5,
+			"nextInterval":2
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 1,
+            "count": 20,
+            "interval": 0.5,
+			"nextInterval":2
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 0,
+            "count": 20,
+            "interval": 0.5,
+			"nextInterval":2
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 1,
+            "count": 20,
+            "interval": 0.5,
+            "nextInterval":6
+        },
+        {
+            "enemyID": 2002,
+            "pathID": 0,
+            "count": 25,
+            "interval": 0.5,
+			"nextInterval":2
+        }
+    ],
+    "cardId": [
+        3004,
+        3005,
+        3006,
+        3007
+    ]
+}
+]

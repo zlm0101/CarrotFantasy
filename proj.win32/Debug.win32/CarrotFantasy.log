@@ -1,0 +1,8 @@
+﻿  Enemy.cpp
+e:\2dx_project\carrotfantasy\classes\enemy.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+e:\2dx_project\carrotfantasy\classes\enemy.cpp(148): warning C4305: “参数”: 从“double”到“float”截断
+e:\2dx_project\carrotfantasy\classes\enemy.cpp(159): warning C4305: “参数”: 从“double”到“float”截断
+e:\2dx_project\carrotfantasy\classes\enemy.cpp(167): warning C4305: “参数”: 从“double”到“float”截断
+  CarrotFantasy.vcxproj -> E:\2dx_project\CarrotFantasy\proj.win32\Debug.win32\CarrotFantasy.exe
+  Performing Custom Build Step
+  复制了 0 个文件

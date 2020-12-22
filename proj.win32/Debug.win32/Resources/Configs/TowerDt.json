@@ -1,0 +1,313 @@
+[
+    {
+        "id": 4001,
+        "level":[
+            {
+                "BulletId": 5001,
+                "ack": 10,
+                "bulletAi":"line",
+                "ackInterval": 2,
+                "worth": 100,
+                "upgradeCoin":150,
+                "scope": 150,
+                "imgs": [
+                    "ui_Battery_01_01",
+                    "ui_Battery_01_03"
+                ]
+            },
+            {
+                "BulletId": 5001,
+                "ack": 18,
+                "bulletAi":"follow",
+                "ackInterval": 1.5,
+                "worth": 150,
+                "upgradeCoin":200,
+                "scope": 180,
+                "imgs": [
+                    "ui_Battery_01_04",
+                    "ui_Battery_01_05"
+                ]
+            },
+            {
+                "BulletId": 5001,
+                "ack": 25,
+                "bulletAi":"follow",
+                "ackInterval": 1.0,
+                "worth": 200,
+                "scope": 200,
+                "imgs": [
+                    "ui_Battery_01_06",
+                    "ui_Battery_01_07"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4002,
+        "level":[
+            {
+                "BulletId": 5004,
+                "ack": 20,
+                "ackInterval": 2,
+                "worth": 220,
+                "upgradeCoin":200,
+                "scope": 150,
+                "imgs": [
+                    "ui_Battery_02_04",
+                    "ui_Battery_02_05"
+                ]
+            },
+            {
+                "BulletId": 5004,
+                "ack": 18,
+                "ackInterval": 1.5,
+                "worth": 150,
+                "upgradeCoin":250,
+                "scope": 180,
+                "imgs": [
+                    "ui_Battery_02_06",
+                    "ui_Battery_02_07"
+                ]
+            },
+            {
+                "BulletId": 5004,
+                "ack": 25,
+                "ackInterval": 1.0,
+                "worth": 200,
+                "scope": 200,
+                "imgs": [
+                    "ui_Battery_02_08",
+                    "ui_Battery_02_09"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4003,
+        "BulletId": 5003,
+        "upgradeId": 0,
+        "ack": 20,
+        "ackInterval": 1,
+        "cost": 250,
+        "scope": 250,
+        "img": "ui_Battery_01_02",
+        "normalImg": "ui_Battery_01_06",
+        "launchImg": "ui_Battery_01_07"
+    },
+    {
+        "id": 4004,
+        "BulletId": 5004,
+        "upgradeId": 4005,
+        "ack": 20,
+        "ackInterval": 2,
+        "cost": 220,
+        "scope": 150,
+        "img": "ui_Battery_02_01",
+        "normalImg": "ui_Battery_02_04",
+        "launchImg": "ui_Battery_02_05"
+    },
+    {
+        "id": 4005,
+        "BulletId": 5005,
+        "upgradeId": 4006,
+        "ack": 25,
+        "ackInterval": 1.8,
+        "cost": 300,
+        "scope": 250,
+        "img": "ui_Battery_02_01",
+        "normalImg": "ui_Battery_02_06",
+        "launchImg": "ui_Battery_02_07"
+    },
+    {
+        "id": 4006,
+        "BulletId": 5006,
+        "upgradeId": 0,
+        "ack": 30,
+        "ackInterval": 1.2,
+        "cost": 360,
+        "scope": 300,
+        "img": "ui_Battery_02_01",
+        "normalImg": "ui_Battery_02_08",
+        "launchImg": "ui_Battery_02_09"
+    },
+    {
+        "id": 4007,
+        "BulletId": 5007,
+        "upgradeId": 4008,
+        "ack": 10,
+        "ackInterval": 1,
+        "cost": 160,
+        "scope": 150,
+        "img": "ui_Battery_03_16",
+        "normalImg": "ui_Battery_03_03",
+        "launchImg": "ui_Battery_03_04"
+    },
+    {
+        "id": 4008,
+        "BulletId": 5008,
+        "upgradeId": 4009,
+        "ack": 15,
+        "ackInterval": 1,
+        "cost": 200,
+        "scope": 200,
+        "img": "ui_Battery_03_16",
+        "normalImg": "ui_Battery_03_05",
+        "launchImg": "ui_Battery_03_06"
+    },
+    {
+        "id": 4009,
+        "BulletId": 5009,
+        "upgradeId": 0,
+        "ack": 25,
+        "ackInterval": 1,
+        "cost": 300,
+        "scope": 250,
+        "img": "ui_Battery_03_16",
+        "normalImg": "ui_Battery_03_07",
+        "launchImg": "ui_Battery_03_08"
+    },
+    {
+        "id": 4010,
+        "BulletId": 5010,
+        "upgradeId": 4011,
+        "ack": 20,
+        "ackInterval": 2,
+        "cost": 220,
+        "scope": 200,
+        "img": "ui_Battery_04_01",
+        "normalImg": "ui_Battery_04_03",
+        "launchImg": "ui_Battery_04_03"
+    },
+    {
+        "id": 4011,
+        "BulletId": 5011,
+        "upgradeId": 4012,
+        "ack": 30,
+        "ackInterval": 1.5,
+        "cost": 300,
+        "scope": 250,
+        "img": "ui_Battery_04_01",
+        "normalImg": "ui_Battery_04_04",
+        "launchImg": "ui_Battery_04_04"
+    },
+    {
+        "id": 4012,
+        "BulletId": 5012,
+        "upgradeId": 0,
+        "ack": 40,
+        "ackInterval": 1,
+        "cost": 400,
+        "scope": 350,
+        "img": "ui_Battery_04_01",
+        "normalImg": "ui_Battery_04_05",
+        "launchImg": "ui_Battery_04_05"
+    },
+    {
+        "id": 4013,
+        "BulletId": 5013,
+        "upgradeId": 4014,
+        "ack": 5,
+        "ackInterval": 2,
+        "cost": 160,
+        "scope": 110,
+        "img": "ui_Battery_05_01",
+        "normalImg": "ui_Battery_05_04",
+        "launchImg": "ui_Battery_05_05"
+    },
+    {
+        "id": 4014,
+        "BulletId": 5014,
+        "upgradeId": 4015,
+        "ack": 7,
+        "ackInterval": 1.5,
+        "cost": 200,
+        "scope": 150,
+        "img": "ui_Battery_05_01",
+        "normalImg": "ui_Battery_05_06",
+        "launchImg": "ui_Battery_05_07"
+    },
+    {
+        "id": 4015,
+        "BulletId": 5015,
+        "upgradeId": 0,
+        "ack": 10,
+        "ackInterval": 1,
+        "cost": 260,
+        "scope": 200,
+        "img": "ui_Battery_05_01",
+        "normalImg": "ui_Battery_05_08",
+        "launchImg": "ui_Battery_05_08"
+    },
+    {
+        "id": 4016,
+        "BulletId": 5016,
+        "upgradeId": 4017,
+        "ack": 10,
+        "ackInterval": 2,
+        "cost": 220,
+        "scope": 150,
+        "img": "ui_Battery_06_01",
+        "normalImg": "ui_Battery_06_04",
+        "launchImg": "ui_Battery_06_04"
+    },
+    {
+        "id": 4017,
+        "BulletId": 5017,
+        "upgradeId": 4018,
+        "ack": 20,
+        "ackInterval": 1.5,
+        "cost": 300,
+        "scope": 250,
+        "img": "ui_Battery_06_01",
+        "normalImg": "ui_Battery_06_05",
+        "launchImg": "ui_Battery_06_05"
+    },
+    {
+        "id": 4018,
+        "BulletId": 5018,
+        "upgradeId": 0,
+        "ack": 30,
+        "ackInterval": 1,
+        "cost": 350,
+        "scope": 350,
+        "img": "ui_Battery_06_01",
+        "normalImg": "ui_Battery_06_06",
+        "launchImg": "ui_Battery_06_06"
+    },
+    {
+        "id": 4019,
+        "BulletId": 5019,
+        "upgradeId": 4020,
+        "ack": 8,
+        "ackInterval": 1.5,
+        "cost": 220,
+        "scope": 150,
+        "img": "ui_Battery_07_01",
+        "normalImg": "ui_Battery_07_04",
+        "launchImg": "ui_Battery_07_05"
+    },
+    {
+        "id": 4020,
+        "BulletId": 5020,
+        "upgradeId": 4021,
+        "ack": 10,
+        "ackInterval": 1,
+        "cost": 300,
+        "scope": 200,
+        "img": "ui_Battery_07_01",
+        "normalImg": "ui_Battery_07_07",
+        "launchImg": "ui_Battery_07_09"
+    },
+    {
+        "id": 4021,
+        "BulletId": 5021,
+        "upgradeId": 0,
+        "ack": 15,
+        "ackInterval": 0.6,
+        "cost": 350,
+        "scope": 250,
+        "img": "ui_Battery_07_01",
+        "normalImg": "ui_Battery_07_12",
+        "launchImg": "ui_Battery_07_10"
+    }
+]
